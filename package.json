@@ -1,0 +1,23 @@
+{
+  "name": "docgenerator",
+  "version": "1.0.0",
+  "description": "A document generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyGoossens/docGenerator.git"
+  },
+  "author": "Jimmy Goossens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyGoossens/docGenerator/issues"
+  },
+  "homepage": "https://github.com/jimmyGoossens/docGenerator#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
